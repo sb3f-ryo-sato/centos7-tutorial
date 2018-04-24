@@ -10,9 +10,11 @@ CentOS 7 チュートリアル (身内向け)
    :maxdepth: 2
    :caption: Contents:
 
+   centos7_reboot_poweroff
    centos7_first_setup
    centos7_lamp_setup
-   centos7_reboot_poweroff
+   centos7_setup_gcc.rst
+   centos7_setup_javac.rst
 
 
 Indices and tables
